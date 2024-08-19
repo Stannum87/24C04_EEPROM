@@ -1,2 +1,2 @@
 # 24C04_EEPROM
- done using I2C
+ done using I2C on AVR
